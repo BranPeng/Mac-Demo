@@ -1,9 +1,9 @@
 # Mac-Demo
 Mac app 开发:
 此demo包含的知识点：
-- 1. 使用纯代码创建项目
-- 2. 使用Masonry布局
-- 3. 使用AFNetworking封装网络请求
+-  使用纯代码创建项目
+-  使用Masonry布局
+- 使用AFNetworking封装网络请求
 
 mac app 开发学习
 
